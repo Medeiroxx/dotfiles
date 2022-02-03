@@ -1,0 +1,5 @@
+2022/01/30-02:37:24.092 19ca Creating DB /home/medeiros/.config/discord/Local Storage/leveldb since it was missing.
+2022/01/30-02:37:24.109 19ca Reusing MANIFEST /home/medeiros/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/01/30-02:39:47.452 19cd Level-0 table #5: started
+2022/01/30-02:39:47.465 19cd Level-0 table #5: 171145 bytes OK
+2022/01/30-02:39:47.469 19cd Delete type=0 #3
